@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>安装包所在的服务器路径http://www.xxx.com/ios/xxx.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>ituns上安装显示图片的所在路径http://www.xxx.com/image/log512_512.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>安装应用显示图片所在路径http://www.xxx.com/image/log57_57.png</string>
+				</dict>
+			</array>
+			<key>metadate</key>
+			<dict>
+				<key>update-url</key>
+				<string>版本更新地址://www.xxx.com/image/log57_57.png</string>
+				<key>bundle-identifier</key>
+				<string>com.superus.SinopecAppIOS</string>
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>智能调度</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
