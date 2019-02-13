@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>安装包所在的服务器路径http://www.xxx.com/ios/xxx.ipa</string>
+					<string>http://218.1.27.106:8085/APPdown/sinopce.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
