@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string></string>
+					<string>https://raw.githubusercontent.com/wsy198939/SinopeniOS/master/kode-icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string></string>
+					<string>https://raw.githubusercontent.com/wsy198939/SinopeniOS/master/kode-icon.png</string>
 				</dict>
 			</array>
 			<key>metadate</key>
